@@ -1,0 +1,31 @@
+_repo: The-Letters-of-Horace-Walpole-Earl-of-Orford-Volume-3_4773
+creator:
+  author:
+    agent_name: Walpole, Horace
+    aliases:
+    - Marshall, William
+    - Walpole, Horatio
+    - Orford, Horace Walpole, Earl of
+    - Muralto, Onuphrio
+    birthdate: 1717
+    deathdate: 1797
+    gutenberg_agent_id: '358'
+    url: http://www.gutenberg.org/2009/agents/358
+    wikipedia: http://en.wikipedia.org/wiki/Horace_Walpole%2C_4th_Earl_of_Orford
+description: ''
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4773'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Legislators -- Great Britain -- Correspondence'
+- !lcsh 'Nobility -- Great Britain -- Correspondence'
+- !lcsh 'Authors, English -- 18th century -- Correspondence'
+- !lcsh 'Walpole, Horace, 1717-1797 -- Correspondence'
+title: The Letters of Horace Walpole, Earl of Orford — Volume 3
+url: http://www.gutenberg.org/ebooks/4773
